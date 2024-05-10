@@ -1,0 +1,61 @@
+.light-icon {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  font-family: 'roboto';
+  color: #000000;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px;
+  border-color: #000000;
+  border-style: solid;
+}
+
+ul {
+  padding-left: 0px;
+}
+
+li {
+  list-style-type: none;
+}
+
+.dark-icon {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  font-family: 'roboto';
+  background-color: #333333;
+  color: #ffffff;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.options {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-family: 'roboto';
+}
+
+.img-style {
+  height: 30px;
+  width: 30px;
+}
+
+.option {
+  text-decoration: none;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.button {
+  background-color: transparent;
+  cursor: pointer;
+  border-width: 0px;
+}

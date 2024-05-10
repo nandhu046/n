@@ -1,0 +1,25 @@
+.light-theme {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'roboto';
+  color: #000000;
+}
+
+.dark-theme {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'roboto';
+  background-color: black;
+  color: #ffffff;
+}
+
+.route-img {
+  height: 150px;
+  width: 200px;
+}
